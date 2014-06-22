@@ -7,14 +7,13 @@
 ### Repo Components 
 
 #### "README.md"
-* (Current file) Cites sources and defines high-level methodologies and processes 
-CodeBook.md - 
+* (Current file) Identifies the components of the repo and how they are related
 
 #### "CodeBook.md"
-* Explains variables/columns, transformations applied to UCI's source data
+* Explains source location, variable/column definitions, transformations applied to UCI's source data, methodologies, assumptions, etc
 
 #### "run_analysis.R"
-* Script that downloads UCI data from its online source and transforms it to a tidy data set with variables outlined in CodeBook.md
+* Script that downloads UCI data from its online source and transforms it to a tidy data set (.tx) with variables outlined in CodeBook.md
 
 
 
