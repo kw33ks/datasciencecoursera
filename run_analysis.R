@@ -102,9 +102,9 @@ library(reshape2)
 
 # Transform into tidy data set
 
-# Melt data 
-
-full_data_melt <- melt(full_data, id=c("Volunteer_num","Activity_num","Activity_desc"), measure.vars=colnames(full_data)[4:82])
+      # Melt data 
+      
+      full_data_melt <- melt(full_data, id=c("Volunteer_num","Activity_num","Activity_desc"), measure.vars=colnames(full_data)[4:82])
 
       # Cast data to show averages of all variables by volunteer by activity
       
