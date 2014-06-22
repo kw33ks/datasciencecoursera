@@ -13,7 +13,7 @@
 * Explains source location, variable/column definitions, transformations applied to UCI's source data, methodologies, assumptions, etc
 
 #### "run_analysis.R"
-* Script that downloads UCI data from its online source and transforms it to a tidy data set (.tx) with variables outlined in CodeBook.md
+* Script that downloads UCI data from its online source and transforms it to a tidy data set (.txt) with variables outlined in CodeBook.md
 
 
 
